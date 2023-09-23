@@ -31,8 +31,6 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://img1.picmix.com/output/stamp/normal/9/3/8/2/1652839_4669e.gif" min-width="310px" max-width="310px" width="310px" align="right" alt="Computador iuriCode">
-
 #### Databases:
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;

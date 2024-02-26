@@ -13,7 +13,7 @@
 
 
 
-<h3 align="center" style="font-size:60px; margin-bottom:100px;">Привет, я являюсь начинающим Java-разработчиком. Но ведь все только впереди?.<br> Разработчик Python, возможно в будущем открою множество интересных репозиториев :)&nbsp;</h3>
+<h3 align="center" style="font-size:60px; margin-bottom:100px;">Привет, я являюсь начинающим Java-разработчиком.&nbsp;</h3>
 
 
 
